@@ -63,7 +63,6 @@
     <Reference Include="TelerikExport, Version=2021.3.914.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ExportToExcelML.cs" />
     <Compile Include="RadForm1.cs">
       <SubType>Form</SubType>
     </Compile>
