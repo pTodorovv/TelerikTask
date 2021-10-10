@@ -1,0 +1,74 @@
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\TaskTelerikOne.exe.config
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\TaskTelerikOne.exe
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\TaskTelerikOne.pdb
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.WinControls.dll
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.WinControls.GridView.dll
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.WinControls.UI.dll
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\TelerikCommon.dll
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.WinControls.xml
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.WinControls.GridView.xml
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.WinControls.UI.xml
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.csproj.AssemblyReference.cache
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.RadForm1.resources
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.Properties.Resources.resources
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.csproj.GenerateResource.cache
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.exe.licenses
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.csproj.CoreCompileInputs.cache
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.csproj.CopyComplete
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.exe
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.pdb
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\TelerikExport.dll
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Core.dll
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.dll
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Windows.Zip.dll
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\TelerikExport.xml
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Core.xml
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.xml
+D:\Visual Studio Tasks\TaskTelerikOne\TaskTelerikOne\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\TaskTelerikOne.exe.config
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\TaskTelerikOne.exe
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\TaskTelerikOne.pdb
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.WinControls.dll
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\TelerikCommon.dll
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\TelerikExport.dll
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.dll
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.WinControls.xml
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\TelerikExport.xml
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Xls.xml
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.csproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.RadForm1.resources
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.Properties.Resources.resources
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.csproj.GenerateResource.cache
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.exe.licenses
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.csproj.CopyComplete
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.exe
+C:\Users\User\Source\Repos\TelerikTask\TaskTelerikOne\obj\x86\Debug\TaskTelerikOne.pdb
